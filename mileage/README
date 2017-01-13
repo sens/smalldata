@@ -1,0 +1,13 @@
+These are fuel mileage records from three cars.  The trip odometer was
+zeroed every time the gas tank was filled (till the auto shutoff went
+off).  The miles traveled and gallons filled was recorded.  Mileage
+was calculated by dividing miles traveled by gallons filled.  For two
+of the three cars, the car dashboard indicated a gas mileage number.
+
+car_name: car nickname
+model: car model
+mpg: calculated miles per gallon
+miles: miles traveled on tank of gas
+gallons: gallons filled
+price: price in dollars per gallon of gas
+dashmpg: tank mileage as indicated by car dashboard
