@@ -1,0 +1,21 @@
+Daily temperature data for five Mid-South citiesfor 2016
+
+Date is coded in YYYY-M-D format
+Other variables are in the form CITYCODE-TEMPTYPE where CITYCODE
+is the city code, and TEMPTYPE is one of the following 
+
+- Max.TemperatureF
+- Mean.TemperatureF
+- Min.TemperatureF
+
+The city codes are as follows:
+
+MEM: Memphis, TN
+LIT: Little Rock, AR
+XNA: Fayetteville, AR
+TYS: Knoxville, TN
+BNA: Nashville, TN
+
+All temperatures are coded in Fahrenheit scale.
+
+Data source: Weather Underground, https://www.wunderground.com
