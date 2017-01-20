@@ -1,4 +1,4 @@
-# English Premier League data 
+English Premier League data (2015-2016 season)
 
 Div = League Division
 Date = Match Date (dd/mm/yy)
@@ -11,5 +11,5 @@ HTHG = Half Time Home Team Goals
 HTAG = Half Time Away Team Goals
 HTR = Half Time Result (H=Home Win, D=Draw, A=Away Win)
 
-Source: [http://www.football-data.co.uk](http://www.football-data.co.uk)  
-See also: [http://www.football-data.co.uk/notes.txt](http://www.football-data.co.uk/notes.txt)
+Source: http://www.football-data.co.uk
+See also: http://www.football-data.co.uk/notes.txt
