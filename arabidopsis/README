@@ -1,0 +1,24 @@
+Phenotype data from Ågren et. al. (2013) via John Lovell.  A set of
+Arabidopsis recombinant inbred lines were derived from a cross of two
+parents from Italy and Sweden.  They were grown in three years
+(2009-2011) in Italy and Sweden.  The phenotype is the average number
+of seeds per plant for each line which is a measure of fitness.
+
+Column names:
+
+- id: ID of RI line (first two are the parents)
+- it09: Italy 2009
+- it10: Italy 2010
+- it11: Italy 2011
+- sw09: Sweden 2009
+- sw10: Sweden 2010
+- sw11: Sweden 2011
+
+
+Reference:
+
+J Ågren, CG Oakley, JK McKay, JT Lovell, DW Schemske. 2013. Genetic
+mapping of adaptation reveals fitness trade-offs in Arabidopsis
+thaliana. Proceedings of the National Academy of Sciences 110:
+21077-21082.
+
