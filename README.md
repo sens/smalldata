@@ -5,3 +5,4 @@ Small datasets:
 - [Ice melting experiment](melting)
 - [Class coin spin data](coinspins)
 - [2015-2016 English Premier League results](soccer)
+- [Arabidopsis gene-environment experiment](arabidopsis)
