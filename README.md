@@ -6,3 +6,4 @@ Small datasets:
 - [Class coin spin data](coinspins)
 - [2015-2016 English Premier League results](soccer)
 - [Arabidopsis gene-environment experiment](arabidopsis)
+- [2017-2018 National Basketball Association results](nba)
