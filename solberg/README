@@ -1,0 +1,17 @@
+This is a copy of the phenotype data from a rat cross performed by
+Dr. Leah Solberg and colleagues.
+
+A reciprocal intercross of rat strain Wistar-Kyoto (WKY) and Fisher
+344 (F344) was generated to identify quantitative trait locus (QTL)
+for depression-like behavior traits. The F2 generation was subjected
+to the forced swim test (FST) to measure the time of immobility,
+climbing and swimming. For detailed protocols, see Solberg et
+al. 2004.
+
+Solberg LC, Baum AE, Ahmadiyeh N, Shimomura K, Li R, Turek FW,
+Churchill GA, Takahashi JS, Redei EE. Sex- and lineage-specific
+inheritance of depression-like behavior in the rat. Mamm Genome. 2004
+Aug;15(8):648-62.
+
+The data was downloaded from QTL Archive
+(https://phenome.jax.org/projects/Solberg1) using an R script.
