@@ -1,0 +1,31 @@
+pastry name,ingredient,type,value
+Madeleine,Flour,calorie,92.67
+Madeleine,Flour,weight, 25.46
+Sugar Cookie,Flour,calorie,160.58
+Sugar Cookie,Flour,weight,44.1
+Butter Cake,Flour,calorie,82.25
+Butter Cake,Flour,weight,22.65
+Madeleine,Sugar,calorie,95.04
+Madeleine,Sugar,weight,27.27
+Sugar Cookie,Sugar,calorie,91.76
+Sugar Cookie,Sugar,weight,23.69
+Butter Cake,Sugar,calorie,87.45
+Butter Cake,Sugar,weight,22.6
+Madeleine,Egg,calorie,41.66
+Madeleine,Egg,weight,27.27
+Sugar Cookie,Egg,calorie,8.23
+Sugar Cookie,Egg,weight,5.87
+Butter Cake,Egg,calorie,31.63
+Butter Cake,Egg,weight,22.65
+Madeleine,Milk,calorie,0
+Madeleine,Milk,weight,0
+Sugar Cookie,Milk,calorie,0
+Sugar Cookie,Milk,weight,0
+Butter Cake,Milk,calorie,4.29
+Butter Cake,Milk,weight,6.58
+Madeleine,Butter,calorie,171.42
+Madeleine,Butter,weight,20
+Sugar Cookie,Butter,calorie,207.05
+Sugar Cookie,Butter,weight,26.34
+Butter Cake,Butter,calorie,199.77
+Butter Cake,Butter,weight,25.47
