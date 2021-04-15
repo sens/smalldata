@@ -1,0 +1,14 @@
+director_id;first;last;movie_id
+10004;Frank;Darabont;10001
+10003;Francis Ford; Coppola;10002
+10003;Francis Ford; Coppola;10003
+10010;Christopher;Nolan;10004
+10001;Sidney;Lumet;10005
+10011;Steven;Spielberg;10006
+10009;Peter;Jackson;10007
+10008;Quentin;Tarantino;10008
+10002;Sergio;Leone;10009
+10006;David;Fincher;10010
+10007;Peter;Jackson;10011
+10005;Robert;Zemeckis;10012
+
