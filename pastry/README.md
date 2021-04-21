@@ -1,10 +1,8 @@
 The ingredients and their respective weight are collected from the following recipes:
 
-* [Madeleine](https://g.co/kgs/xxfHQB)
-
-* [Sugar cookie](https://sallysbakingaddiction.com/best-sugar-cookies/)
-
-* [Butter cake](https://rasamalaysia.com/recipe-butter-cake/)
+- [Madeleine](https://g.co/kgs/xxfHQB)
+- [Sugar cookie](https://sallysbakingaddiction.com/best-sugar-cookies/)
+- [Butter cake](https://rasamalaysia.com/recipe-butter-cake/)
 
 The calories of each ingredient are based on data are collected from the [FoodData Central of the USDA](https://fdc.nal.usda.gov/index.html).
 
