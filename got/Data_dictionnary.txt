@@ -1,0 +1,84 @@
+battles.csv
+Request more info
+COLUMN NAME		TYPE	DESCRIPTION
+name			string	
+year			integer
+battle_number		integer
+attacker_king		string
+defender_king		string
+attacker_1		string
+attacker_2		string
+attacker_3		string
+attacker_4		string
+defender_1		string
+defender_2		string
+defender_3		string
+defender_4		string
+attacker_outcome	string
+battle_type		string
+major_death		boolean
+major_capture		boolean
+attacker_size		integer
+defender_size		integer
+attacker_commander	string
+defender_commander	string
+summer			boolean
+location		string
+region			string
+note			string
+
+
+
+character-deaths.csv
+Request more info
+COLUMN NAME		TYPE	DESCRIPTION
+name			string
+allegiances		string
+death_year		integer
+book_of_death		integer
+death_chapter		integer
+book_intro_chapter	integer
+gender			boolean
+nobility		boolean
+got			boolean
+cok			boolean
+sos			boolean
+ffc			boolean
+dwd			boolean
+
+
+
+character-predictions_pose.csv
+Request more info
+COLUMN NAME		TYPE	DESCRIPTION
+s_no			integer
+plod			decimal
+name			string
+title			string
+male			boolean
+culture			string
+dateofbirth		integer
+dateofdeath		integer
+mother			string
+father			string
+heir			string
+house			string
+spouse			string
+book1			boolean
+book2			boolean
+book3			boolean
+book4			boolean
+book5			boolean
+isalivemother		boolean
+isalivefather		boolean
+isaliveheir		boolean
+isalivespouse		boolean
+ismarried		boolean
+isnoble			boolean
+age			integer
+numdeadrelations	integer
+booldeadrelations	boolean
+ispopular		boolean
+popularity		decimal
+isalive			boolean
+
