@@ -2,7 +2,8 @@ Phenotype data from Ågren et. al. (2013) via John Lovell.  A set of
 Arabidopsis recombinant inbred lines were derived from a cross of two
 parents from Italy and Sweden.  They were grown in three years
 (2009-2011) in Italy and Sweden.  The phenotype is the average number
-of seeds per plant for each line which is a measure of fitness.
+of seeds per plant for each line which is a measure of fitness. We also
+have the genotype data for the FLC (Flowering Time C) locus.
 
 Column names:
 
@@ -13,6 +14,7 @@ Column names:
 - sw09: Sweden 2009
 - sw10: Sweden 2010
 - sw11: Sweden 2011
+- flc: Flowering time locus (C) genotype
 
 
 Reference:
